@@ -58,7 +58,7 @@ To speed up detection process, as well as to decrease the false positive rate wh
 
 2. Paul Viola; Michael J. Jones. IEEE Computer Society Conference on Computer Vision and Pattern Recognition, May 2004. Rapid Object Detection Using a Boosted Cascade of Simple Features.
 
-3. Paul Viola; Michael J. Jones. International Journal of Computer Vision 57(2), 137–154, 2004. Robust Real-Time Face Detection. 
+3. Paul Viola; Michael J. Jones. International Journal of Computer Vision 57(2), 137–154, 2004. Robust Real-Time Face Detection.
 
 ## Author
 
@@ -66,3 +66,4 @@ To speed up detection process, as well as to decrease the false positive rate wh
 |:--:|
 | [![Donny Hikari](https://avatars3.githubusercontent.com/u/22200374?s=128)](https://github.com/Donny-Hikari) |
 | [Donny Hikari](https://github.com/Donny-Hikari) |
+

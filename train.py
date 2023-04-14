@@ -12,6 +12,7 @@ if __name__ == '__main__':
     # boostedCascade = BoostedCascade(0.07, 0.60, 0.97)
 
     if GenerateFeatures:
+        # FPR = 0.07 / 각 stage에서의 FPR = 0.60 / FNR...?
         boostedCascade = BoostedCascade(0.07, 0.60, 0.94)
         faceImages = loadImages('data/' + Database + '/train/faces')
         nonfaceImages = loadImages('data/' + Database + '/train/non-faces')
